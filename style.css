@@ -68,3 +68,8 @@ li {
     margin-top: 200px;
     text-align: center;
 }
+
+.intro img {
+    width: 400px;
+    height: 500px;  
+}
